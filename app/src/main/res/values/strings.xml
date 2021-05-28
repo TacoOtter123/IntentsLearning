@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IntentsLearning</string>
+    <string name="login_app_title">Plants Thirsty Make Drink</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logo_credit">Logo by Clara Ceerla</string>
+    <string name="email_address">Email Address</string>
+    <string name="name">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="text_runs">Runs</string>
+    <string name="text_search">Search</string>
+    <string name="text_stats">Stats</string>
+    <string name="text_logs">Logs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="createNew">New</string>
+    <string name="sort">Sort</string>
+    <string name="progress">Weekly Goal Progress</string>
+    <string name="new_goal">New Goal</string>
+    <string name="update_goal">Update</string>
+    <string name="weekly">Distance Run This Week: </string>
+    <string name="total">Total Distance Run: </string>
+    <string name="longest">Longest Run: </string>
+    <string name="fastest">Fastest Average Mile Split: </string>
+</resources>
